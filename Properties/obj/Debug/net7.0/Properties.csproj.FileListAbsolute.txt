@@ -1,0 +1,15 @@
+/Users/jeffersonong/Projects/CSharpIntermediateCopy/Properties/obj/Debug/net7.0/Properties.csproj.AssemblyReference.cache
+/Users/jeffersonong/Projects/CSharpIntermediateCopy/Properties/obj/Debug/net7.0/Properties.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeffersonong/Projects/CSharpIntermediateCopy/Properties/obj/Debug/net7.0/Properties.AssemblyInfoInputs.cache
+/Users/jeffersonong/Projects/CSharpIntermediateCopy/Properties/obj/Debug/net7.0/Properties.AssemblyInfo.cs
+/Users/jeffersonong/Projects/CSharpIntermediateCopy/Properties/obj/Debug/net7.0/Properties.csproj.CoreCompileInputs.cache
+/Users/jeffersonong/Projects/CSharpIntermediateCopy/Properties/bin/Debug/net7.0/Properties
+/Users/jeffersonong/Projects/CSharpIntermediateCopy/Properties/bin/Debug/net7.0/Properties.deps.json
+/Users/jeffersonong/Projects/CSharpIntermediateCopy/Properties/bin/Debug/net7.0/Properties.runtimeconfig.json
+/Users/jeffersonong/Projects/CSharpIntermediateCopy/Properties/bin/Debug/net7.0/Properties.dll
+/Users/jeffersonong/Projects/CSharpIntermediateCopy/Properties/bin/Debug/net7.0/Properties.pdb
+/Users/jeffersonong/Projects/CSharpIntermediateCopy/Properties/obj/Debug/net7.0/Properties.dll
+/Users/jeffersonong/Projects/CSharpIntermediateCopy/Properties/obj/Debug/net7.0/refint/Properties.dll
+/Users/jeffersonong/Projects/CSharpIntermediateCopy/Properties/obj/Debug/net7.0/Properties.pdb
+/Users/jeffersonong/Projects/CSharpIntermediateCopy/Properties/obj/Debug/net7.0/Properties.genruntimeconfig.cache
+/Users/jeffersonong/Projects/CSharpIntermediateCopy/Properties/obj/Debug/net7.0/ref/Properties.dll

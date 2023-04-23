@@ -1,0 +1,15 @@
+/Users/jeffersonong/Projects/CSharpIntermediateCopy/Fields/obj/Debug/net7.0/Fields.csproj.AssemblyReference.cache
+/Users/jeffersonong/Projects/CSharpIntermediateCopy/Fields/obj/Debug/net7.0/Fields.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeffersonong/Projects/CSharpIntermediateCopy/Fields/obj/Debug/net7.0/Fields.AssemblyInfoInputs.cache
+/Users/jeffersonong/Projects/CSharpIntermediateCopy/Fields/obj/Debug/net7.0/Fields.AssemblyInfo.cs
+/Users/jeffersonong/Projects/CSharpIntermediateCopy/Fields/obj/Debug/net7.0/Fields.csproj.CoreCompileInputs.cache
+/Users/jeffersonong/Projects/CSharpIntermediateCopy/Fields/bin/Debug/net7.0/Fields
+/Users/jeffersonong/Projects/CSharpIntermediateCopy/Fields/bin/Debug/net7.0/Fields.deps.json
+/Users/jeffersonong/Projects/CSharpIntermediateCopy/Fields/bin/Debug/net7.0/Fields.runtimeconfig.json
+/Users/jeffersonong/Projects/CSharpIntermediateCopy/Fields/bin/Debug/net7.0/Fields.dll
+/Users/jeffersonong/Projects/CSharpIntermediateCopy/Fields/bin/Debug/net7.0/Fields.pdb
+/Users/jeffersonong/Projects/CSharpIntermediateCopy/Fields/obj/Debug/net7.0/Fields.dll
+/Users/jeffersonong/Projects/CSharpIntermediateCopy/Fields/obj/Debug/net7.0/refint/Fields.dll
+/Users/jeffersonong/Projects/CSharpIntermediateCopy/Fields/obj/Debug/net7.0/Fields.pdb
+/Users/jeffersonong/Projects/CSharpIntermediateCopy/Fields/obj/Debug/net7.0/Fields.genruntimeconfig.cache
+/Users/jeffersonong/Projects/CSharpIntermediateCopy/Fields/obj/Debug/net7.0/ref/Fields.dll
