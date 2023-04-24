@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZSLyS3IdNST3VCXXqTNp/dgDLxm/SzXbtGKC8Ni2960+iBCFfCzWfiwsDW0tgWjP/OyQk7+nnbztYbAsFKMxBg==",
+  "dgSpecHash": "x8Xgc3xtDhYSqAJOdxwZVJJIiIXKcO1hYkeR6CrIPY+t3vJqLKIOLgVcFF5Xg7yEdaoH4EjY4PjGKc4jmRfF6A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jeong\\source\\repos\\CsharpIntermediate\\Fields\\Fields.csproj",
+  "projectFilePath": "/Users/jeffersonong/Projects/CsharpIntermediate/Fields/Fields.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hsXfCo23TksJcLA0zNKi1hkNPtLfabfrF2Oeh++RSuMza1nE2VGWP9kSKwWgPDKEKiXx7y9sJgBVIyrAgCcVNg==",
+  "dgSpecHash": "Yc4sDHJVEpv6RfMNZ7I4ryXBmscB4AjS8AizVii3uDJ5YLbC7ZF6WL3dg6+FBwxHR+NvgnJYF6v/LKnDv3P0UQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jeong\\source\\repos\\CsharpIntermediate\\Indexer\\Indexer.csproj",
+  "projectFilePath": "/Users/jeffersonong/Projects/CsharpIntermediate/Indexer/Indexer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

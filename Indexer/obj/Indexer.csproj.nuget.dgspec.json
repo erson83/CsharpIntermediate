@@ -1,32 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jeong\\source\\repos\\CsharpIntermediate\\Indexer\\Indexer.csproj": {}
+    "/Users/jeffersonong/Projects/CsharpIntermediate/Indexer/Indexer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jeong\\source\\repos\\CsharpIntermediate\\Indexer\\Indexer.csproj": {
+    "/Users/jeffersonong/Projects/CsharpIntermediate/Indexer/Indexer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jeong\\source\\repos\\CsharpIntermediate\\Indexer\\Indexer.csproj",
+        "projectUniqueName": "/Users/jeffersonong/Projects/CsharpIntermediate/Indexer/Indexer.csproj",
         "projectName": "Indexer",
-        "projectPath": "C:\\Users\\jeong\\source\\repos\\CsharpIntermediate\\Indexer\\Indexer.csproj",
-        "packagesPath": "C:\\Users\\jeong\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jeong\\source\\repos\\CsharpIntermediate\\Indexer\\obj\\",
+        "projectPath": "/Users/jeffersonong/Projects/CsharpIntermediate/Indexer/Indexer.csproj",
+        "packagesPath": "/Users/jeffersonong/.nuget/packages/",
+        "outputPath": "/Users/jeffersonong/Projects/CsharpIntermediate/Indexer/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\jeong\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/jeffersonong/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Users\\jeong\\Documents\\UiPath\\.libraries": {},
+          "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -60,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
         }
       }
     }

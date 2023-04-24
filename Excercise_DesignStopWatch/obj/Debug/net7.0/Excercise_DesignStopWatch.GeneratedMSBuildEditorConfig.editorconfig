@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Excercise_DesignStopWatch
-build_property.ProjectDir = C:\Users\jeong\source\repos\CsharpIntermediate\Excercise_DesignStopWatch\
+build_property.ProjectDir = /Users/jeffersonong/Projects/CsharpIntermediate/Excercise_DesignStopWatch/

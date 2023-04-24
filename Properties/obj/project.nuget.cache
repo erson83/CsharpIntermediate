@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pnoo6zcR9uw6FjtYYRJca4xSjS6BeIHlUH447SP22rpxrRqIgUSyaxzIA8FL+g2hfVeC+0KV4gl6Gh/i3ERhEQ==",
+  "dgSpecHash": "2ntHfI0/PCbvHJgKiPQxoxXcuOtS8Nvff3kAJfXEi4TywLT7oiAiAxMQgMlOW8xdRWHm/sFAJfkFdj8+ieR4gg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jeong\\source\\repos\\CsharpIntermediate\\Properties\\Properties.csproj",
+  "projectFilePath": "/Users/jeffersonong/Projects/CsharpIntermediate/Properties/Properties.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

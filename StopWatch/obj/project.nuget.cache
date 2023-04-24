@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TYADP9wUIZX1cPR6fWxHLcmlTQUH/1vXbgriBIXrPGCAC8y43gy6PQdxABCQVjzS+3D4X41eL/M5BCDSbSMAYg==",
+  "dgSpecHash": "X20+pH+t4F083ZWP8YqJIXypSITBZONL8Z/nmDPniwcnk9Y5NrlEMyvhqz1YCma9jXk+lqCIvKE4uzpTZAVOQg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jeong\\source\\repos\\CsharpIntermediate\\StopWatch\\ExcerciseStopWatch.csproj",
+  "projectFilePath": "/Users/jeffersonong/Projects/CsharpIntermediate/StopWatch/ExcerciseStopWatch.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
