@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jeong\\source\\repos\\erson83\\CSharpIntermediateCopy\\Properties\\Properties.csproj",
+      "projectUniqueName": "C:\\Users\\jeong\\source\\repos\\CsharpIntermediate\\Properties\\Properties.csproj",
       "projectName": "Properties",
-      "projectPath": "C:\\Users\\jeong\\source\\repos\\erson83\\CSharpIntermediateCopy\\Properties\\Properties.csproj",
+      "projectPath": "C:\\Users\\jeong\\source\\repos\\CsharpIntermediate\\Properties\\Properties.csproj",
       "packagesPath": "C:\\Users\\jeong\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jeong\\source\\repos\\erson83\\CSharpIntermediateCopy\\Properties\\obj\\",
+      "outputPath": "C:\\Users\\jeong\\source\\repos\\CsharpIntermediate\\Properties\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

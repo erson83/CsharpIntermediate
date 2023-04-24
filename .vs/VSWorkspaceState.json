@@ -1,7 +1,13 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Constructors",
+    "\\PropertiesPrivateSet",
+    "\\StackoverFlow",
+    "\\StackoverFlowMethod2",
+    "\\StackoverFlowMethod3",
+    "\\StopWatch"
   ],
-  "SelectedNode": "\\C:\\Users\\jeong\\Source\\Repos\\CsharpIntermediate",
+  "SelectedNode": "\\StackoverFlowMethod2\\StackoverFlow2.csproj",
   "PreviewInSolutionExplorer": false
 }

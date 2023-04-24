@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jeong\\source\\repos\\erson83\\CSharpIntermediateCopy\\PropertiesPrivateBMI\\PropertiesPrivateBMI.csproj": {}
+    "C:\\Users\\jeong\\source\\repos\\CsharpIntermediate\\PropertiesPrivateBMI\\PropertiesPrivateBMI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jeong\\source\\repos\\erson83\\CSharpIntermediateCopy\\PropertiesPrivateBMI\\PropertiesPrivateBMI.csproj": {
+    "C:\\Users\\jeong\\source\\repos\\CsharpIntermediate\\PropertiesPrivateBMI\\PropertiesPrivateBMI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jeong\\source\\repos\\erson83\\CSharpIntermediateCopy\\PropertiesPrivateBMI\\PropertiesPrivateBMI.csproj",
+        "projectUniqueName": "C:\\Users\\jeong\\source\\repos\\CsharpIntermediate\\PropertiesPrivateBMI\\PropertiesPrivateBMI.csproj",
         "projectName": "PropertiesPrivateBMI",
-        "projectPath": "C:\\Users\\jeong\\source\\repos\\erson83\\CSharpIntermediateCopy\\PropertiesPrivateBMI\\PropertiesPrivateBMI.csproj",
+        "projectPath": "C:\\Users\\jeong\\source\\repos\\CsharpIntermediate\\PropertiesPrivateBMI\\PropertiesPrivateBMI.csproj",
         "packagesPath": "C:\\Users\\jeong\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jeong\\source\\repos\\erson83\\CSharpIntermediateCopy\\PropertiesPrivateBMI\\obj\\",
+        "outputPath": "C:\\Users\\jeong\\source\\repos\\CsharpIntermediate\\PropertiesPrivateBMI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
