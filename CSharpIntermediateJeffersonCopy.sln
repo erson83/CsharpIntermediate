@@ -7,23 +7,29 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharpIntermediateJefferson
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Constructors", "Constructors\Constructors.csproj", "{E22EE5C4-A224-450A-A3C0-48FF3F3921D3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methods", "Methods\Methods.csproj", "{10A01809-CE8C-418F-ACDD-EDB3A4F433C4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Methods", "Methods\Methods.csproj", "{10A01809-CE8C-418F-ACDD-EDB3A4F433C4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fields", "Fields\Fields.csproj", "{5D463FE6-A895-43AC-8301-A9A4D1A82CB2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fields", "Fields\Fields.csproj", "{5D463FE6-A895-43AC-8301-A9A4D1A82CB2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessModifier", "AccessModifier\AccessModifier.csproj", "{85F8A8FB-4018-4761-8DAB-712BA88E6F28}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AccessModifier", "AccessModifier\AccessModifier.csproj", "{85F8A8FB-4018-4761-8DAB-712BA88E6F28}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Properties", "Properties\Properties.csproj", "{BC4C3DBE-3681-45F0-95F2-31DF3460B332}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Properties", "Properties\Properties.csproj", "{BC4C3DBE-3681-45F0-95F2-31DF3460B332}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Indexer", "Indexer\Indexer.csproj", "{E59A5057-9E6E-4CA1-9CC8-319260CEB788}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Indexer", "Indexer\Indexer.csproj", "{E59A5057-9E6E-4CA1-9CC8-319260CEB788}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PropertiesPrivateSet", "PropertiesPrivateSet\PropertiesPrivateSet.csproj", "{060AC1E8-C84B-4A31-AB83-47BA0EA69DBD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PropertiesPrivateSet", "PropertiesPrivateSet\PropertiesPrivateSet.csproj", "{060AC1E8-C84B-4A31-AB83-47BA0EA69DBD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PropertiesPrivateBMI", "PropertiesPrivateBMI\PropertiesPrivateBMI.csproj", "{913B1775-E0E7-453E-BEA1-82FC74F363F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PropertiesPrivateBMI", "PropertiesPrivateBMI\PropertiesPrivateBMI.csproj", "{913B1775-E0E7-453E-BEA1-82FC74F363F9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Excercise_DesignStopWatch", "Excercise_DesignStopWatch\Excercise_DesignStopWatch.csproj", "{D80014BD-FF73-4EDE-9C0E-D46083CD7F59}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Excercise_DesignStopWatch", "Excercise_DesignStopWatch\Excercise_DesignStopWatch.csproj", "{D80014BD-FF73-4EDE-9C0E-D46083CD7F59}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcerciseStopWatch", "StopWatch\ExcerciseStopWatch.csproj", "{D3E86A59-423A-40E6-918D-9662C69A9663}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExcerciseStopWatch", "StopWatch\ExcerciseStopWatch.csproj", "{D3E86A59-423A-40E6-918D-9662C69A9663}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StackoverFlow", "StackoverFlow\StackoverFlow.csproj", "{49FB2F38-8200-4052-98A4-9BD212FB1ED8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StackoverFlow2", "StackoverFlowMethod2\StackoverFlow2.csproj", "{14ED87C4-BADE-4E04-B596-A4985B88EB82}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StackoverFlow3", "StackoverFlowMethod3\StackoverFlow3.csproj", "{F2A29B7B-10AE-4C04-8BC0-B78FD10544AC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +81,18 @@ Global
 		{D3E86A59-423A-40E6-918D-9662C69A9663}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D3E86A59-423A-40E6-918D-9662C69A9663}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D3E86A59-423A-40E6-918D-9662C69A9663}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49FB2F38-8200-4052-98A4-9BD212FB1ED8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49FB2F38-8200-4052-98A4-9BD212FB1ED8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49FB2F38-8200-4052-98A4-9BD212FB1ED8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49FB2F38-8200-4052-98A4-9BD212FB1ED8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14ED87C4-BADE-4E04-B596-A4985B88EB82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14ED87C4-BADE-4E04-B596-A4985B88EB82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14ED87C4-BADE-4E04-B596-A4985B88EB82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14ED87C4-BADE-4E04-B596-A4985B88EB82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2A29B7B-10AE-4C04-8BC0-B78FD10544AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2A29B7B-10AE-4C04-8BC0-B78FD10544AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2A29B7B-10AE-4C04-8BC0-B78FD10544AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2A29B7B-10AE-4C04-8BC0-B78FD10544AC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
