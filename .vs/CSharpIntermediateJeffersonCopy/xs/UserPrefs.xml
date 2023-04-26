@@ -1,7 +1,8 @@
-﻿<Properties StartupConfiguration="{E6606B06-3A4E-4290-85A4-B562D2B398C1}|Default">
+﻿<Properties StartupConfiguration="{B4A2BB12-31A1-44A6-8A55-37815A098DF8}|Default">
   <MonoDevelop.Ide.ItemProperties.StackoverFlow3 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.AccessModifierPart2 PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.AccessModifierPart2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.CSharpIntermediateJeffersonCopy PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.ConstructorPart2 PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.Inheritance PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Composition PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.InheritancePart2 FirstBuild="True" />
