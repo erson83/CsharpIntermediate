@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "UpcastDowncast3/1.0.0": {
+        "runtime": {
+          "UpcastDowncast3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UpcastDowncast3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

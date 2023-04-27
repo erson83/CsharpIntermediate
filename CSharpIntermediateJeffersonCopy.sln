@@ -31,19 +31,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StackoverFlow2", "Stackover
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StackoverFlow3", "StackoverFlowMethod3\StackoverFlow3.csproj", "{F2A29B7B-10AE-4C04-8BC0-B78FD10544AC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance\Inheritance.csproj", "{0815099A-6328-4C9F-B1E6-CB8BFD2C1CCC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inheritance", "Inheritance\Inheritance.csproj", "{0815099A-6328-4C9F-B1E6-CB8BFD2C1CCC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Composition", "Composition\Composition.csproj", "{AC1050E4-A83F-4D2C-9623-5E1E3C971B02}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Composition", "Composition\Composition.csproj", "{AC1050E4-A83F-4D2C-9623-5E1E3C971B02}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InheritancePart2", "InheritancePart2\InheritancePart2.csproj", "{288C9635-207E-46F0-878F-66DDB489DF48}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InheritancePart2", "InheritancePart2\InheritancePart2.csproj", "{288C9635-207E-46F0-878F-66DDB489DF48}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessModifierPart2", "AccessModifierPart2\AccessModifierPart2.csproj", "{E6606B06-3A4E-4290-85A4-B562D2B398C1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AccessModifierPart2", "AccessModifierPart2\AccessModifierPart2.csproj", "{E6606B06-3A4E-4290-85A4-B562D2B398C1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstructorPart2", "ConstructorPart2\ConstructorPart2.csproj", "{B4A2BB12-31A1-44A6-8A55-37815A098DF8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UpcastDowncast", "UpcastDowncast\UpcastDowncast.csproj", "{649928F0-E188-4FA5-90CC-5CB3A0D8E6DA}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UpcastDownCast2", "UpcastDownCast2\UpcastDownCast2.csproj", "{DBF11E92-709E-4E61-8C40-D3CB70E11433}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UpcastDowncast3", "UpcastDowncast3\UpcastDowncast3.csproj", "{40B8DB2D-A00B-4B90-8AA8-029B7BC1E997}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -135,6 +137,10 @@ Global
 		{DBF11E92-709E-4E61-8C40-D3CB70E11433}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DBF11E92-709E-4E61-8C40-D3CB70E11433}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DBF11E92-709E-4E61-8C40-D3CB70E11433}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40B8DB2D-A00B-4B90-8AA8-029B7BC1E997}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40B8DB2D-A00B-4B90-8AA8-029B7BC1E997}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40B8DB2D-A00B-4B90-8AA8-029B7BC1E997}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40B8DB2D-A00B-4B90-8AA8-029B7BC1E997}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
