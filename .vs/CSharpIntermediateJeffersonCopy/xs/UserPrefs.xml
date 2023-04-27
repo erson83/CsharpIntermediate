@@ -1,10 +1,38 @@
-﻿<Properties StartupConfiguration="{B4A2BB12-31A1-44A6-8A55-37815A098DF8}|Default">
-  <MonoDevelop.Ide.ItemProperties.StackoverFlow3 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.AccessModifierPart2 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.CSharpIntermediateJeffersonCopy PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.ConstructorPart2 PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.Inheritance PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.Composition PreferredExecutionTarget="MonoDevelop.Default" />
+﻿<Properties StartupConfiguration="{DBF11E92-709E-4E61-8C40-D3CB70E11433}|https">
+  <MonoDevelop.Ide.ItemProperties.UpcastDownCast2 PreferredExecutionTarget="/Applications/Google Chrome.app" FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.InheritancePart2 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.ConstructorPart2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Composition PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.CSharpIntermediateJeffersonCopy PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Inheritance PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.UpcastDowncast PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ConstructorPart2/Vehicle.cs">
+    <Files>
+      <File FileName="ConstructorPart2/Program.cs" Line="15" Column="44" />
+      <File FileName="ConstructorPart2/Car.cs" Line="18" Column="1" />
+      <File FileName="ConstructorPart2/Vehicle.cs" Line="26" Column="1" />
+      <File FileName="Constructors/Customer.cs" Line="42" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CSharpIntermediateJeffersonCopy" expanded="True">
+            <Node name="AccessModifierPart2" expanded="True" />
+            <Node name="Composition" expanded="True" />
+            <Node name="ConstructorPart2" expanded="True" />
+            <Node name="Constructors" expanded="True" />
+            <Node name="CSharpIntermediateJeffersonCopy" expanded="True" />
+            <Node name="Inheritance" expanded="True" />
+            <Node name="InheritancePart2" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.ItemProperties.AccessModifierPart2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.StackoverFlow3 PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
