@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iJilamVhrDxV/QnnmB0tncbB94qk8lvDeQrgkbheIavIM/HUpFsK1a8nXPPQLz/LplQRua08FO/Po4UIpMjr8w==",
+  "dgSpecHash": "XiyDAjEyru7XliJZCypRg0NDTpDmEJdRp0lsbMYCmog+5Qhc463ox3BdUX71iscvJSAjvcblcLy1yAkiTa0RQw==",
   "success": true,
-  "projectFilePath": "/Users/jeffersonong/Projects/CsharpIntermediate/PropertiesPrivateBMI/PropertiesPrivateBMI.csproj",
+  "projectFilePath": "C:\\Users\\jeong\\source\\repos\\CsharpIntermediate\\PropertiesPrivateBMI\\PropertiesPrivateBMI.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

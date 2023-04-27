@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xWO4oP6PR963q/7NBPGyp3IS3WhCnlX3HYBRfPSL+C6EyrX8CaIBgX+vIMq8tFZy+RvJVGXIhe5vXP09w7NWyg==",
+  "dgSpecHash": "AE6B+TzEULbeJI5I1UaIHYCE+ZcMd76wHPZ8HmeLUGQ9tWPr1WatVv/ZvDIcSoBDmoQwaLTZfOO2zPR4koC9hg==",
   "success": true,
-  "projectFilePath": "/Users/jeffersonong/Projects/CsharpIntermediate/Inheritance/Inheritance.csproj",
+  "projectFilePath": "C:\\Users\\jeong\\source\\repos\\CsharpIntermediate\\Inheritance\\Inheritance.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

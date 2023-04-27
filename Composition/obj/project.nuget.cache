@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ny6zL9dD52D+4e/aRyoPvLvDO7RdofbJcW4G5UAFHZ2VGN5b0sJc22s8yg/3fxCaMRaft2aP6G+wdmsLVMNJhg==",
+  "dgSpecHash": "bESe6mMyM4THqZDYvmL/NH8YTg+ogeZGR3jmltpMU/Il8c/Jp5SCWME+WcbPjAHrFVZo60/F9Kt8nKqA1qX1Uw==",
   "success": true,
-  "projectFilePath": "/Users/jeffersonong/Projects/CsharpIntermediate/Composition/Composition.csproj",
+  "projectFilePath": "C:\\Users\\jeong\\source\\repos\\CsharpIntermediate\\Composition\\Composition.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
