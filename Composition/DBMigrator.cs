@@ -15,7 +15,6 @@
         public void Migrate()
         {
             _logger.Log("We are migrating.");
-
         }
 
         public void MigratePartial()

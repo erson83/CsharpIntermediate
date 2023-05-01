@@ -14,7 +14,7 @@
         public Vehicle(string registrationNumber)
         {
             _registrationNumber = registrationNumber;
-            Console.WriteLine("Vehicle is being privately intialized. Base class is always run first 1 line {0}", registrationNumber);
+            Console.WriteLine("Vehicle is being privately intialized. Base class is always run first 1st line {0}", registrationNumber);
 
         }
 
@@ -22,7 +22,7 @@
             :this(registrationNumber)
         {
             _serialNo = serialNo;
-            Console.WriteLine("Vehicle is being privately intialized. Base class is always run first {0}", serialNo);
+            Console.WriteLine("Vehicle is being privately intialized. Base class is always run first 2nd line {0}", serialNo);
 
         }
     }

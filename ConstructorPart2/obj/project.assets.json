@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jeffersonong/Projects/CsharpIntermediate/ConstructorPart2/ConstructorPart2.csproj",
-      "projectName": "ConstructorPart2",
-      "projectPath": "/Users/jeffersonong/Projects/CsharpIntermediate/ConstructorPart2/ConstructorPart2.csproj",
+      "projectUniqueName": "/Users/jeffersonong/Projects/CsharpIntermediate/ConstructorPart2/ConstructorInheritance.csproj",
+      "projectName": "ConstructorInheritance",
+      "projectPath": "/Users/jeffersonong/Projects/CsharpIntermediate/ConstructorPart2/ConstructorInheritance.csproj",
       "packagesPath": "/Users/jeffersonong/.nuget/packages/",
       "outputPath": "/Users/jeffersonong/Projects/CsharpIntermediate/ConstructorPart2/obj/",
       "projectStyle": "PackageReference",

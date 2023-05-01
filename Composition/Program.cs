@@ -18,9 +18,12 @@
         {
 
             // 1. pass in logger object using new logger
+            // call upon child class
             var dbMigrator = new DbMigrator(new Logger());
 
             // 2. pass in logger after declaring logObj variable
+            // declare new parent class
+            // call upon child class
             var logObj = new Logger();
             var installer = new Installer(logObj);
 
@@ -30,6 +33,11 @@
 
 
             dbMigrator.MigratePartial();
+
+
+            
+
+
         }
 
 
