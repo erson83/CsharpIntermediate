@@ -1,4 +1,4 @@
-﻿<Properties StartupConfiguration="{5419F16B-DF7E-4E77-AD3D-2B7519139DBB}|Default">
+﻿<Properties StartupConfiguration="{2AB1A68A-B83A-40B3-88ED-1B30D8ACF85F}|Default">
   <MonoDevelop.Ide.ItemProperties.MetodOverridingPart3 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Composition PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.UpcastDowncast PreferredExecutionTarget="MonoDevelop.Default" />
@@ -35,7 +35,7 @@
   <MonoDevelop.Ide.ItemProperties.BoxingUnboxing PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.ConstructorInheritance PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.MethodOveridingPart2 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.AbstractClassesMembers FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.AbstractClassesMembers PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints />
   <MonoDevelop.Ide.ItemProperties.StackoverFlow3 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
