@@ -4,7 +4,9 @@ namespace MethodOveride3
 
 {
 
-
+//    - Method overriding means changing the implementation of an inherited method.
+//- If a declare a method as virtual in the base class, we can override it in a derived
+//class.
 
     class Program
 

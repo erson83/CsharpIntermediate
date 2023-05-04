@@ -7,6 +7,7 @@
 
     {
 
+        // before implementing method overiding
         static void Main(string[] args)
         {
             var shapes = new List<Shape>();
