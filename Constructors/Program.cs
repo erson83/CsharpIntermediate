@@ -1,10 +1,15 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Runtime.Intrinsics.X86;
 
 namespace Constructors
 
 {
 
-
+//    - Constructors are not inherited and need to explicitly defined in derived class.
+//- When creating an object of a type that is part of an inheritance hierarchy, base class
+//constructors are always executed first.
+//- We can use the base keyword to pass control to a base class constructor.
 
     class Program
 

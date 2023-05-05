@@ -1,38 +1,56 @@
-﻿<Properties StartupConfiguration="{DBF11E92-709E-4E61-8C40-D3CB70E11433}|https">
-  <MonoDevelop.Ide.ItemProperties.UpcastDownCast2 PreferredExecutionTarget="/Applications/Google Chrome.app" FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.InheritancePart2 FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.ConstructorPart2 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.Composition PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.CSharpIntermediateJeffersonCopy PreferredExecutionTarget="MonoDevelop.Default" />
+﻿<Properties StartupConfiguration="{89ED7654-C347-4D3B-885E-454623A7FAB7}|Default">
   <MonoDevelop.Ide.ItemProperties.Inheritance PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.UpcastDowncast PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="ConstructorPart2/Vehicle.cs">
+  <MonoDevelop.Ide.ItemProperties.CSharpIntermediateJeffersonCopy PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.DesignDataBaseConnection3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.StackoverFlow3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.DesignDataBaseConnection2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.AccessModifierPart2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MethodOveridingPart2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.MethodOveridePart4 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.ExcerciseDesignaStack PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.UpcastDownCast2 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.InheritancePart2 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.MetodOverridingPart3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.AbstractClassesMembers PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.BoxingUnboxing PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.ConstructorInheritance PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.SealedClasses FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.ExcerciseDBCommand FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.DesignDataBaseConnection PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.CompositionPart2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.AbstractClassesPart2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AbstractClassesMembers/Shape.cs">
     <Files>
-      <File FileName="ConstructorPart2/Program.cs" Line="15" Column="44" />
-      <File FileName="ConstructorPart2/Car.cs" Line="18" Column="1" />
-      <File FileName="ConstructorPart2/Vehicle.cs" Line="26" Column="1" />
-      <File FileName="Constructors/Customer.cs" Line="42" Column="2" />
+      <File FileName="AbstractClassesMembers/Program.cs" Line="27" Column="39" />
+      <File FileName="AbstractClassesMembers/Shape.cs" Line="24" Column="2" />
+      <File FileName="AbstractClassesMembers/Circle.cs" Line="8" Column="1" />
+      <File FileName="AbstractClassesMembers/Rectangle.cs" Line="1" Column="1" />
+      <File FileName="MetodOverridingPart3/Program.cs" Line="15" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="CSharpIntermediateJeffersonCopy" expanded="True">
-            <Node name="AccessModifierPart2" expanded="True" />
+            <Node name="AbstractClassesMembers" expanded="True" />
             <Node name="Composition" expanded="True" />
-            <Node name="ConstructorPart2" expanded="True" />
-            <Node name="Constructors" expanded="True" />
+            <Node name="CompositionPart2" expanded="True" />
             <Node name="CSharpIntermediateJeffersonCopy" expanded="True" />
             <Node name="Inheritance" expanded="True" />
             <Node name="InheritancePart2" expanded="True" />
+            <Node name="MethodOveridingPart2" expanded="True" />
+            <Node name="MethodsOverriding" expanded="True" />
+            <Node name="MetodOverridingPart3" expanded="True" />
+            <Node name="UpcastDowncast" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
-  <MonoDevelop.Ide.ItemProperties.AccessModifierPart2 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.StackoverFlow3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Composition PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.MethodsOverriding PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

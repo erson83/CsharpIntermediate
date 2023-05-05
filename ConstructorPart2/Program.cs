@@ -3,7 +3,7 @@
 namespace ConstructorsPart2
 
 {
-
+    // inheritance 
 
     class Program
 
@@ -11,8 +11,11 @@ namespace ConstructorsPart2
 
         static void Main(string[] args)
         {
-            string licenseNo = "SG1234E";
-            var car = new Car(licenseNo,123);
+            string licenseNoCar = "SG1234E";
+            var car = new Car(licenseNoCar, 123);
+
+            string licenseNoTruck = "TRU1234";
+            var truck = new Truck(licenseNoTruck);
 
         }
 
