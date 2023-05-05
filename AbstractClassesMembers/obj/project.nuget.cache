@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0nIPoC0JwFTO0cpkEs5mbQl7rWYNpZQMX/aWcLl4ALmyiFdmRT4pZEKtDKq1KkSrw3hD+rJyvOh8Iq+WBrsahQ==",
+  "dgSpecHash": "AowshsHd16EIRUmo/AF9o2Xw71FaLYxe5jHbMm0K0bnn7xHYvflNGXOsOBpXWDeXNOtxDiwOzaCT4l40SWZf+g==",
   "success": true,
-  "projectFilePath": "/Users/jeffersonong/Projects/CsharpIntermediate/AbstractClassesMembers/AbstractClassesMembers.csproj",
+  "projectFilePath": "C:\\Users\\jeong\\source\\repos\\CsharpIntermediate\\AbstractClassesMembers\\AbstractClassesMembers.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

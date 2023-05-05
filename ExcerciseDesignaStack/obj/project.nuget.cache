@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "63xmJOHe/UG+2uM9wA4gSNFQ2PMbNCTlPUKsw5RiXU1GINB+OL4DsZdA490aX6oXF/5nMQsjLb6G2MgoyNs8GQ==",
+  "dgSpecHash": "rSQ9YfrH2KvyEMC35pn4R0lPBaI0N5u3ph3Ed5hpv7kUbtX+RRyxhTvvGt9XsOiFGy/EGgiOyvQ0KgdA8uK3Vg==",
   "success": true,
-  "projectFilePath": "/Users/jeffersonong/Projects/CsharpIntermediate/ExcerciseDesignaStack/ExcerciseDesignaStack.csproj",
+  "projectFilePath": "C:\\Users\\jeong\\source\\repos\\CsharpIntermediate\\ExcerciseDesignaStack\\ExcerciseDesignaStack.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

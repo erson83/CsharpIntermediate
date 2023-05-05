@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ArjX5LChDXUOqvNDytK0oC+W6NHaahc28jslbs4PbaXqeKEbyBVTx7wSOfquB+lURGjf0khLxSfdo/RpMdVoXQ==",
+  "dgSpecHash": "84L9JnApuB06c/ECpOf91OwvWZU2ej7aJO1mzoABlCuvB5BPMWTonPBrES7OiRq0LRTIXGAoZC6pDMX7+nXxWw==",
   "success": true,
-  "projectFilePath": "/Users/jeffersonong/Projects/CsharpIntermediate/SealedClasses/SealedClasses.csproj",
+  "projectFilePath": "C:\\Users\\jeong\\source\\repos\\CsharpIntermediate\\SealedClasses\\SealedClasses.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
