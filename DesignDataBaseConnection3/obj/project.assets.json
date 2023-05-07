@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jeffersonong/Projects/CsharpIntermediate/DesignDataBaseConnection/DesignDataBaseConnection.csproj",
-      "projectName": "DesignDataBaseConnection",
-      "projectPath": "/Users/jeffersonong/Projects/CsharpIntermediate/DesignDataBaseConnection/DesignDataBaseConnection.csproj",
+      "projectUniqueName": "/Users/jeffersonong/Projects/CsharpIntermediate/DesignDataBaseConnection3/DesignDataBaseConnection3.csproj",
+      "projectName": "DesignDataBaseConnection3",
+      "projectPath": "/Users/jeffersonong/Projects/CsharpIntermediate/DesignDataBaseConnection3/DesignDataBaseConnection3.csproj",
       "packagesPath": "/Users/jeffersonong/.nuget/packages/",
-      "outputPath": "/Users/jeffersonong/Projects/CsharpIntermediate/DesignDataBaseConnection/obj/",
+      "outputPath": "/Users/jeffersonong/Projects/CsharpIntermediate/DesignDataBaseConnection3/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/jeffersonong/.nuget/NuGet/NuGet.Config"
