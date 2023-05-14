@@ -4,8 +4,8 @@
     public class Installer
     {
 
-        // passing in Logger variable class here
-        private readonly Logger _logger;
+
+        private readonly Logger _logger;        // passing in Logger variable class here
 
         public Installer(Logger logger)
         {

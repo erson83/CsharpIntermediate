@@ -18,6 +18,8 @@
             person.SetBirthdate(new DateTime(1983, 1, 1));
             Console.WriteLine(person.GetBirthdate());
 
+            
+            Console.WriteLine(person.CalculateAge(new DateTime(1983, 1, 1)));
         }
 
 

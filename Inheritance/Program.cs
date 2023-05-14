@@ -29,6 +29,8 @@ namespace Inheritance
             text.Copy();
 
 
+
+
         }
 
 
