@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VWfBuEn3PFVFPjTcG1a/AxhodS4zdGvBn4/aA7l4dahYzp1g83EDg5jdI7KT9m9+lcHv0xQOoddaZJxKHQjh0w==",
+  "dgSpecHash": "3d/tI2/zP6qIlBhZWLTJFivx90kCz7sKJCjGlulisHPCBoo61DZm9EIwjZhH28LOsJZixe5ZzSiDv+5twEnQvg==",
   "success": true,
-  "projectFilePath": "/Users/jeffersonong/Projects/CsharpIntermediate/IndexerPart2/IndexerPart2.csproj",
+  "projectFilePath": "/Users/jeffersonong/Projects/CsharpIntermediate/IndexerPart2/IndexerPart2_dictionary.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

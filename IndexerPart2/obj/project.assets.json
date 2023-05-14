@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jeffersonong/Projects/CsharpIntermediate/IndexerPart2/IndexerPart2.csproj",
-      "projectName": "IndexerPart2",
-      "projectPath": "/Users/jeffersonong/Projects/CsharpIntermediate/IndexerPart2/IndexerPart2.csproj",
+      "projectUniqueName": "/Users/jeffersonong/Projects/CsharpIntermediate/IndexerPart2/IndexerPart2_dictionary.csproj",
+      "projectName": "IndexerPart2_dictionary",
+      "projectPath": "/Users/jeffersonong/Projects/CsharpIntermediate/IndexerPart2/IndexerPart2_dictionary.csproj",
       "packagesPath": "/Users/jeffersonong/.nuget/packages/",
       "outputPath": "/Users/jeffersonong/Projects/CsharpIntermediate/IndexerPart2/obj/",
       "projectStyle": "PackageReference",
