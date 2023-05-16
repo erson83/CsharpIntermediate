@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QPcVPC8rmkl6Mctye83tVkHbAcNjTkeBNDU94rHmr3k7e+2+iWQyaJ6TeZ98RZ/CheSlD4hgLZwPNDcoVStasw==",
+  "dgSpecHash": "GR7zxCibez4y31Cm1uGpQmo9f5M0Jxqv6Jov/hckbkkcBUw45wJvyy2WfR8hGk2YrKVVtJza+TpoRRtKQvaZcA==",
   "success": true,
-  "projectFilePath": "/Users/jeffersonong/Projects/CsharpIntermediate/Interfaces/Interfaces.csproj",
+  "projectFilePath": "C:\\Users\\jeong\\source\\repos\\CsharpIntermediate\\Interfaces\\Interfaces.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
