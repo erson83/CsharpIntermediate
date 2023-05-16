@@ -7,7 +7,13 @@
         {
             Console.WriteLine("Draw a rectangle");
         }
-    }
 
+
+        public override void Print()
+        {
+            Console.WriteLine("Print a rectangle");
+
+        }
+    }
 
 }

@@ -21,7 +21,7 @@ namespace BoxingUnboxing
 
         static void Main(string[] args)
         {
-
+            // ArrayList() contains objects by default
             var list = new ArrayList();
             // boxing happens below
             list.Add(1);
@@ -39,7 +39,7 @@ namespace BoxingUnboxing
             var number2 = (int)list[1];
             Console.WriteLine(number2);
 
-
+            // by declaring a list<int>, we are declaring int inside the list
             var anotherList = new List<int>();
             // no boxing happened becasue all are of int type within list
             anotherList.Add(1);

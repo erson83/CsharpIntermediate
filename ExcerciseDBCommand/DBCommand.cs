@@ -6,7 +6,7 @@
     {
         public string ConnectionString;
         public string SqlQuery;
-
+        public string SqlType;
 
         public DBCommand(string connectionstring)
         {
@@ -25,18 +25,38 @@
 
         }
 
-
-        public virtual void  Open()
+        public DBCommand(string connectionstring, string sqlquery, string sqltype)
+    : this(connectionstring,sqlquery)
         {
+            if (string.IsNullOrWhiteSpace(sqltype))
+                throw new ArgumentException("sqltype string cannot be null or empty");
+            this.SqlType = sqltype;
+
+        }
+
+
+
+        public virtual void Open()
+        {
+
+        }
+
+        public virtual void Run()
+        {
+
         }
 
         public virtual void Close()
         {
+
         }
 
         public virtual void Execute()
         {
-            Console.WriteLine("Connecting using query: " + SqlQuery);
+            var dbconnection = new DBConnection(ConnectionString, SqlQuery, SqlType);
+            dbconnection.Open();
+            dbconnection.Run();
+            dbconnection.Close();
         }
 
     }

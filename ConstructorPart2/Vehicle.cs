@@ -5,6 +5,7 @@
     {
         private readonly string _registrationNumber;
         private readonly int _serialNo;
+        private readonly string _modelType;
 
         //public Vehicle()
         //{
@@ -25,6 +26,15 @@
             Console.WriteLine("Vehicle is being privately intialized. Base class is always run first 2nd line {0}", serialNo);
 
         }
+
+        public Vehicle(string registrationNumber, int serialNo, string modelType)
+    : this(registrationNumber, serialNo)
+        {
+            _modelType = modelType;
+            Console.WriteLine("Vehicle is being privately intialized. Base class is always run first 3nd line {0}", modelType);
+
+        }
+
     }
 
 

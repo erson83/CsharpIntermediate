@@ -29,10 +29,11 @@
 
 
             dbMigrator.Migrate();
+            dbMigrator.MigratePartial();
             installer.Install();
 
 
-            dbMigrator.MigratePartial();
+
 
 
             

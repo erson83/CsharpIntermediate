@@ -9,6 +9,7 @@
         // getter/sett as public
 
         private DateTime _birthdate;
+        private int Age;
 
         public void SetBirthdate(DateTime birthdate)
         {
@@ -16,13 +17,18 @@
 
         }
 
+
         public DateTime GetBirthdate()
         {
 
             return _birthdate;
         }
 
-
+        public int CalculateAge(DateTime birthdate)
+        {
+            Age = DateTime.Today.Year - _birthdate.Year;
+            return Age;
+        }
 
 
     }

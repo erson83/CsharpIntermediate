@@ -8,6 +8,12 @@
             Console.WriteLine("Draw a circle");
 
         }
+
+        public override void Print()
+        {
+            Console.WriteLine("Print a circle");
+
+        }
     }
 
 

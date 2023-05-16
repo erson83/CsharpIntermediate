@@ -3,6 +3,8 @@ using System.Numerics;
 using System.Runtime.Intrinsics.X86;
 namespace AbstractClasses
 {
+
+
     class Program
 
     {
@@ -31,6 +33,9 @@ namespace AbstractClasses
 
             rectangle.Copy();
 
+
+            var triangle = new Triangle();
+            triangle.Print();
 
         }
 

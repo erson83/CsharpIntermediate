@@ -4,8 +4,15 @@
     public class DbMigrator
     {
 
-        // passing in Logger variable class here
-        private readonly Logger _logger;
+
+
+        //the readonly keyword is used to mark a field or variable as
+        //read-only, meaning that it can only be set once, typically at
+        //initialization time or in the constructor. Once it has been set,
+        //it cannot be modified.
+
+
+        private readonly Logger _logger;     // passing in Logger variable class here
 
         public DbMigrator(Logger logger)
         {
